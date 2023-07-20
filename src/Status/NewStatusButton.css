@@ -1,0 +1,15 @@
+.newstatus-btn {
+  border-radius: 25%;
+  font-size: 1rem;
+  box-shadow: 0.15rem 0.15rem grey;
+  width: 5rem;
+  margin: auto;
+}
+
+.newstatus-btn:hover {
+  background-color: rgb(107, 170, 225);
+}
+
+.newstatus-btn:active {
+  background-color: rgb(74, 115, 151);
+}

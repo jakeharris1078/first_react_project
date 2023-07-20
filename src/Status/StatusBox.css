@@ -1,0 +1,19 @@
+.statusbox {
+  border: 1px solid rgb(0, 0, 0);
+  font-size: 1.25rem;
+  box-shadow: 0.5rem 0.75rem rgb(127, 127, 127);
+  margin: 2rem;
+  padding: 1rem 2rem;
+}
+.two {
+  font-size: 0.75rem;
+  position: relative;
+  left: 75%;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+  display: inline;
+  margin: 0;
+  padding: 0 0 0 0;
+}
